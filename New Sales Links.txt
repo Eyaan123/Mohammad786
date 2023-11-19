@@ -1,0 +1,60 @@
+Intra Link:
+http://hdfcintra/intra/IndexGreen.html?3434
+
+http://hdfcintra/newhome/
+
+
+Ameyo (Professional) Web Access:
+http://192.168.55.21:8888/ameyowebaccess/en/#
+
+NEw HRIMS:
+http://10.0.2.100/hsaleshr/ 
+
+
+New LOAN LMS link:
+http://10.0.2.103/loan_lmsstatus/
+
+BSA Module :-
+http://10.0.2.103/hsalesbsa/#no-back-button
+
+
+Loan Tracker:
+http://192.168.10.61/dsalt
+
+
+New Adrenalin link:
+http://10.0.2.218/adrenalin/
+
+
+Citrix:
+http://10.0.0.40/citrix/hdfcsales
+
+New Citrix
+http://10.0.4.147/Citrix/hdfcstoreWeb/
+
+
+Waves Link:
+http://hdfcscanimg/hdfc/WavesMain.html
+
+
+Crest Link:
+http://10.0.2.100/Crestworkbench/Login.aspx
+
+
+EISC Link:
+https://eiscr.camsonline.com/iscNlogin.aspx
+
+
+Credit Protect:
+http://10.0.2.100/creditprotect/Existing_CPPlus_Policy.aspx
+
+http://10.0.2.100/Creditprotect/Login.aspx
+
+http://10.0.2.100:500/
+
+
+Etime Tracker for Realty Users:
+http://192.168.18.25/ETimeTrackWeb/login.aspx
+
+
+
